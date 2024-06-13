@@ -1,4 +1,4 @@
-name: Docker Image CI - Lorenzo Frozza
+name: Docker Image CI - Lorenzo Frozz
 
 on:
   push:
